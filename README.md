@@ -4,5 +4,5 @@ I'm 16yo. I study in Cotil (a tecnical school in Brazil) and in my free times at
 Always reading books about everything (specially about the 'exact sciences' and the classics books). I'm an appreciator of math and physics
 
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftecnofanias.com.br%2Fprogramador-como-virar-um%2F&psig=AOvVaw2hhBu_XuAOaQUwOrf_LvGj&ust=1671300675087000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOirqKre_vsCFQAAAAAdAAAAABAI" width="100"/>
+  <iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>
 </div>
