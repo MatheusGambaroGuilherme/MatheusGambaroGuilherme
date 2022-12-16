@@ -3,8 +3,6 @@ I'm 16yo. I study in Cotil (a tecnical school in Brazil) and in my free times at
 
 Always reading books about everything (specially about the 'exact sciences' and the classics books). I'm an appreciator of math and physics
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=MatheusGambaroGuilherme_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheusguilhergambaro@gmail.com" /></a>
