@@ -1,5 +1,5 @@
 <h1>Hello 🤙, i'm Matheus Gambaro</h1>
-<h3>I'm 16yo. Coursing software development in Unicamp</h3>
+<h3>Coursing software development in Unicamp</h3>
 
 - 🖥️ Low level language learner
 - 📖 Studying **C++, C#, Java, Rust and JavaScript**
