@@ -2,7 +2,7 @@
 <h3>Coursing software development in Unicamp</h3>
 
 - 🖥️ Low level language learner
-- 📖 Studying **C++, C#, Java, Rust and JavaScript**
+- 📖 Studying **React, Flutter, Node.Js and React Native**
 - 🧠 Always learning with the bests
 - 🔎 Deppeing at the fundamentals of computer science
 - 📧 Do you want to send me a crazy ideia or contact me? Send an email: <a href="mailto:matheusguilhergambaro@gmail.com" target="_blank" >matheusguilhergambaro@gmail.com</a>
